@@ -25,5 +25,5 @@ A: Да, можно, как и любую программу из исходни
 *В ходе выполнения ДЗ для написания докерфайлов и конфигов пользовался следующими источниками:*
 
 <https://wiki.alpinelinux.org/wiki/Nginx>
-
 <https://wiki.alpinelinux.org/wiki/Nginx_with_PHP>
+
